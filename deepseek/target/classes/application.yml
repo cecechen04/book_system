@@ -1,0 +1,6 @@
+server:
+  port: 8888
+deepseek:
+  api:
+    url: https://api.deepseek.com/v1/chat/completions
+    key: sk-4fb3d2d0069b45f8a2c2750a94b4c58d
